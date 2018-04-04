@@ -17,7 +17,7 @@
 	<artifactId>format-html5microdata</artifactId>
 	<version>8.5-SNAPSHOT</version>
 	
-	<name>Format_HTML5Microdata</name>
+	<name>Format: HTML5 Microdata</name>
 	<description>Document Exporter plugin to save documents as HTML5 with embedded Microdata</description>
 
 	<licenses>
