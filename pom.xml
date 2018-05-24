@@ -8,14 +8,14 @@
 		<groupId>uk.ac.gate</groupId>
 		<artifactId>gate-plugin-base</artifactId>
 		<!-- this should be the version of GATE you wish to build against -->
-		<version>8.5-SNAPSHOT</version>
+		<version>8.5</version>
 		<relativePath>../../Plugin_Base/pom.xml</relativePath>
 	</parent>	
 	
 	<!-- this is the description of this plugin -->
 	<groupId>uk.ac.gate.plugins</groupId>
 	<artifactId>format-html5microdata</artifactId>
-	<version>8.5-SNAPSHOT</version>
+	<version>8.5</version>
 	
 	<name>Format: HTML5 Microdata</name>
 	<description>Document Exporter plugin to save documents as HTML5 with embedded Microdata</description>
